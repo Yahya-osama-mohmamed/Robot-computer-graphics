@@ -1,5 +1,5 @@
 # Robot-computer-graphics
-# Texture Mapping, Object Loading and Animation
+# Texture Mapping, Object Loading and Animation using opengl
 
 ##### In this part we should be able to add texture to the floor, make animations and loading objects.
 
